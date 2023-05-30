@@ -1,0 +1,3 @@
+2023-05-29 13:21:47,444 INFO com.luv2code.springdemo.MyApp [main] Info message
+2023-05-29 13:21:47,446 WARN com.luv2code.springdemo.MyApp [main] Warning message
+2023-05-29 13:21:47,447 ERROR com.luv2code.springdemo.MyApp [main] Error message
