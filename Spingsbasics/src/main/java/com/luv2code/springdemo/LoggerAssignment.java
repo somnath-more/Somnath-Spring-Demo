@@ -13,6 +13,5 @@ public class LoggerAssignment {
         logger.error("Error message");
 
 
-
     }
 }
